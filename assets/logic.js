@@ -14,6 +14,8 @@ function changeBgColor(color) {
 
 function toggleMenu() {
   const toggleMenu = document.querySelector('.toggleMenu');
+  const navigation = document.querySelector('.navigation');
   toggleMenu.classList.toggle('active');
-  // console.log("Yes, it should work")
+  navigation.classList.toggle('active');
+  console.log("Yes, it should work")
 }

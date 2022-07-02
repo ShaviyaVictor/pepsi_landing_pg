@@ -53,6 +53,10 @@ header ul li a
   margin-left: 40px;
   text-decoration: none;
 }
+header ul li a:hover
+{
+  text-decoration: none;
+}
 /* end of header content styles */
 /* start of the div content styles */
 .content

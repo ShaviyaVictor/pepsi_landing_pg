@@ -110,3 +110,13 @@ header ul li a
   max-width: 260px;
 }
 /* end of div content styles */
+/* start of the bottom most styles for the 3 pespi images */
+.thumb 
+{
+  position: absolute;
+  left: 50%;
+  bottom: 20%;
+  transform: translateX(-50%);
+  display: flex;
+
+}

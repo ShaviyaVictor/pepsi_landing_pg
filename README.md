@@ -3,9 +3,8 @@ A sample landing page for Pepsi done; a learning project.
           
 <img src="https://github.com/ShaviyaVictor/pepsi_landing_pg/blob/main/assets/images/SS1.png" width="750" height="380">             
 <img src="https://github.com/ShaviyaVictor/pepsi_landing_pg/blob/main/assets/images/SS2.png" width="750" height="380">             
-<img src="https://github.com/ShaviyaVictor/pepsi_landing_pg/blob/main/assets/images/SS3.pngg" width="750" height="380">             
-<img src="https://github.com/ShaviyaVictor/pepsi_landing_pg/blob/main/assets/images/Mobile_SS2.png" width="210" height="390">
-<img src="" width="210" height="390">             
+<img src="https://github.com/ShaviyaVictor/pepsi_landing_pg/blob/main/assets/images/Mobile_SS3.png" width="750" height="380">             
+<img src="https://github.com/ShaviyaVictor/pepsi_landing_pg/blob/main/assets/images/Mobile_SS2.png" width="210" height="390">            
 
 ## Built With
 

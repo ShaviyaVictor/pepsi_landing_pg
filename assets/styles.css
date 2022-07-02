@@ -135,3 +135,16 @@ header ul li a
 {
   max-width: 40px;
 }
+/* end of the bottom most styles for the 3 pespi images */
+/* start of the social links styles */
+.sci
+{
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

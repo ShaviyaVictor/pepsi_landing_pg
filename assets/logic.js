@@ -11,3 +11,9 @@ function changeBgColor(color) {
   // alternatively
   // document.querySelector('.sec').style.background = color;
 }
+
+function toggleMenu() {
+  const toggleMenu = document.querySelector('.toggleMenu');
+  toggleMenu.classList.toggle('active');
+  // console.log("Yes, it should work")
+}

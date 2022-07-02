@@ -256,4 +256,12 @@ header ul li a:hover
     font-size: 14px;
     padding: 8px 15px;
   }
+  .content .imgBox
+  {
+    width: 100%;
+    display: flex;
+    padding-right: 0;
+    margin-top: 50px;
+    justify-content: center;
+  }
 }

@@ -115,7 +115,7 @@ header ul li a
 {
   position: absolute;
   left: 50%;
-  bottom: 20%;
+  bottom: 1%;
   transform: translateX(-50%);
   display: flex;
 }
@@ -147,4 +147,15 @@ header ul li a
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+.sci li
+{
+  list-style: none;
+}
+.sci li a
+{
+  display: inline-block;
+  filter: invert(1);
+  margin: 5px 0;
+  transform: scale(0.6);
 }

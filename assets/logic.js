@@ -12,6 +12,7 @@ function changeBgColor(color) {
   // document.querySelector('.sec').style.background = color;
 }
 
+// function for the navbar toggle functionality
 function toggleMenu() {
   const toggleMenu = document.querySelector('.toggleMenu');
   const navigation = document.querySelector('.navigation');

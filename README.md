@@ -1,7 +1,7 @@
 # pepsi_landing_pg
 A sample landing page for Pepsi done; a learning project.
           
-<img src="#" width="600" height="350">             
+<img src="https://github.com/ShaviyaVictor/pepsi_landing_pg/blob/main/assets/images/SS1.png" width="600" height="350">             
 
 ## Built With
 

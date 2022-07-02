@@ -194,7 +194,8 @@ header ul li a:hover
     align-items: center;
     justify-content: center;
     transition: 0.2s;
-    
+    visibility: hidden;
+    opacity: 0;
   }
   header ul li a 
   {

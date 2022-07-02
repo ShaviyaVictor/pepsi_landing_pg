@@ -24,7 +24,7 @@ This project is licensed under the [Apache License 2.0](https://github.com/Shavi
 - [Image Download Link](https://drive.google.com/drive/folders/1UV9V0je86fWuDqjx7bnTJJE4WB95OkSM)          
 
 
-## Acknowledgments
+## Acknowledgment
 
 * @muhammadirshad
 

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 /* start of global styles */
 * 
 {
@@ -62,5 +62,18 @@ header ul li a
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.content .textBox
+{
+  position: relative;
+  max-width: 600px;
+}
+.content .textBox h2
+{
+  color: #fff;
+  font-size: 4em;
+  line-height: 1.5em;
+  font-weight: 900;
+  text-transform: uppercase;
 }
 /* end of div content styles */

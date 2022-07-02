@@ -234,5 +234,26 @@ header ul li a:hover
     background-position: center;
     background-size: 40px;
     background-repeat: no-repeat;
+    /* filter: invert(1); */
+  }
+  .content
+  {
+    flex-direction: column;
+    margin-top: 80px;
+  }
+  .content .textBox
+  {
+    position: relative;
+    max-width: 100%;
+    padding-right: 20px;
+  }
+  .content .textBox h2 
+  {
+    font-size: 3em;
+  }
+  .content .textBox a 
+  {
+    font-size: 14px;
+    padding: 8px 15px;
   }
 }

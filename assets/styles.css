@@ -97,4 +97,16 @@ header ul li a
   text-decoration: none;
   text-transform: uppercase;
 }
+.content .imgBox
+{
+  width: 600px;
+  display: flex;
+  padding-right: 50px;
+  margin-top: 50px;
+  justify-content: flex-end;
+}
+.content .imgBox img
+{
+  max-width: 260px;
+}
 /* end of div content styles */

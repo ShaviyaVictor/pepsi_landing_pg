@@ -197,6 +197,11 @@ header ul li a:hover
     visibility: hidden;
     opacity: 0;
   }
+  header ul.active
+  {
+    visibility: visible;
+    opacity: 1;
+  }
   header ul li a 
   {
     display: inline-block;

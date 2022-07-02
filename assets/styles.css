@@ -264,4 +264,8 @@ header ul li a:hover
     margin-top: 50px;
     justify-content: center;
   }
+  .content .imgBox img 
+  {
+    max-width: 150px;
+  }
 }

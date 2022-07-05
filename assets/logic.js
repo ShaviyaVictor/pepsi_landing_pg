@@ -20,3 +20,10 @@ function toggleMenu() {
   navigation.classList.toggle('active');
   console.log("Yes, it should work")
 }
+
+// function for the preloader
+var loader = document.querySelector('#preloader');
+
+window.addEventListener("load", function() {
+  loader.style.display = 'none';
+});
